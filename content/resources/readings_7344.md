@@ -2,7 +2,8 @@
 content_type: resource
 description: 'Reading Material for the course "RNA Interference: A New Tool for Genetic
   Analysis and Therapeutics".'
-file: /courses/7-344-rna-interference-a-new-tool-for-genetic-analysis-and-therapeutics-fall-2004/c4a5b3e42db99a5e123f4a520b546b32_readings_7344.pdf
+file: /ol-ocw-studio-app/courses/7-344-rna-interference-a-new-tool-for-genetic-analysis-and-therapeutics-fall-2004/c4a5b3e42db99a5e123f4a520b546b32_readings_7344.pdf
+file_size: 34953
 file_type: application/pdf
 learning_resource_types:
 - Readings
